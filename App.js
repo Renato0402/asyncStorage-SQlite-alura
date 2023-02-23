@@ -35,6 +35,8 @@ export default function App() {
     }
   }
 
+  //Ajeitar depois com Picker no ListHeaderComponent
+
   return (
     <SafeAreaView style={estilos.container}>
       <Picker

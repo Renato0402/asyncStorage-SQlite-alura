@@ -42,7 +42,6 @@ export default function NotaEditor({
     await adicionaNota(umaNota);
 
     mostraNotas();
-    console.log(mostraNotas)
     limpaModal();
   }
 
